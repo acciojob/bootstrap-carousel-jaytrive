@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+.carousel-inner > div{
+	font-size:20px;
+	padding:20px;
+	background-color:green;
+	border:2px solid white;
+}
